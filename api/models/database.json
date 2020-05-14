@@ -1,0 +1,12 @@
+{
+  "development": {
+    "use_env_variable": false,
+    "username": "postgres",
+    "password": "my.pass",
+    "database": "SALOIASITE_DEV",
+    "host": "10.10.10.200",
+    "dialect": "postgres",
+    "port": 5432,
+    "logging": true
+  }
+}
